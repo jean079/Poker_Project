@@ -1,0 +1,19 @@
+{
+    "name": "poker-game",
+    "version": "1.0.0",
+    "description": "A game that simulates a poker.",
+    "main": "Play.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node src/Play.js"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "dependencies": {
+        "node": "^22.4.0",
+        "poker-evaluator": "^2.1.0"
+    },
+    "author": "Jean Visser"
+}
+ 
